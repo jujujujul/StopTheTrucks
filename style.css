@@ -1,1 +1,71 @@
+body {
+    background-color: floralwhite;
+}
+   
+
+#h1 { 
+    text-align: center;
+    font-family: serif;
+    font-size: 45px;
+    color: brown;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    
+}
+
+#div1 {
+   
+    text-align: center;
+    margin-top: 75px;
+    margin-bottom: 75px;
+}
+
+#div2 {
+    text-align: center;
+    margin-top: 50px;
+    
+}
+
+.p5 {
+    margin-left: 135px; 
+    
+}
+
+.p1 {
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.div4 {
+    margin-left: 500px;
+    margin-bottom: 69px;
+}
+
+.p2 {
+     
+    margin-left: 100px;
+    margin-right:100px;
+    
+}
+   
+
+.p0 {
+    text-align: center;
+}
+
+.p3 {
+   
+    margin-left: 100px;
+    margin-right:100px;
+}
+
+.p4 {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 135px;
+    color: coral;
+
+}
+
 
