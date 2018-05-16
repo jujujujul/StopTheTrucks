@@ -3,17 +3,23 @@ body {
 }
    
 
-#h1 { 
+h1 { 
     text-align: center;
     font-family: serif;
     font-size: 45px;
     color: brown;
     margin-bottom: 40px;
     margin-top: 40px;
-    
 }
 
-#div1 {
+h2 {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 135px;
+    color: coral; 
+}
+
+#video {
    
     text-align: center;
     margin-top: 75px;
@@ -22,50 +28,49 @@ body {
 
 #div2 {
     text-align: center;
-    margin-top: 50px;
-    
+    margin-top: 50px;  
 }
 
-.p5 {
+.lienext {
     margin-left: 135px; 
-    
 }
 
-.p1 {
+.ligne {
     text-align: center;
     margin-bottom: 40px;
     margin-top: 40px;
 }
 
-.div4 {
-    margin-left: 500px;
-    margin-bottom: 69px;
+.citation {
+    display: block;
+    float: right;
+    margin-bottom: 9%;
 }
 
-.p2 {
-     
+.text {
     margin-left: 100px;
-    margin-right:100px;
-    
+    margin-right:100px;  
 }
    
-
-.p0 {
+.intro {
     text-align: center;
+    border-style: double;
+    border-color: cadetblue;
+    border-width: 4px;
+    padding: 30px;
 }
 
-.p3 {
-   
-    margin-left: 100px;
-    margin-right:100px;
-}
-
-.p4 {
+.langue {
     margin-top: 40px;
     margin-bottom: 40px;
     margin-left: 135px;
     color: coral;
-
 }
 
 
+main {
+    max-width: 1200px;
+    min-width: 30px;
+    width: 80%;
+    margin: auto;
+}
